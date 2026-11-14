@@ -14,9 +14,16 @@ Public profile presentation for Onur160903. This repository contains only newly 
 
 ## Validation
 
-- Run `git diff --check` before committing.
-- Review every staged file and the initial Git history before uploading.
-- Check the rendered profile on GitHub after uploading.
+- Passed the staged whitespace check with `git diff --cached --check`.
+- Reviewed both staged documents and confirmed the initial history contained no earlier project files before uploading.
+- Verified the published README on the live GitHub profile, including its heading and focus table.
+- Verified that the eight existing project repositories still show Private.
+
+## Published state
+
+Repository: https://github.com/Onur160903/Onur160903
+
+Default branch: `codex/profile-setup`. The initial documentation commit was pushed successfully, and the README is displayed at https://github.com/Onur160903.
 
 ## Limits and next step
 
